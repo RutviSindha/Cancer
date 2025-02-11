@@ -3,8 +3,9 @@ About this file
 This README.md file serves as comprehensive documentation for the Multi Cancer Dataset. It provides key details and instructions to help users understand, navigate, and utilize the dataset effectively.
 
 Multi Cancer Dataset 
-Dataset Link: https://www.kaggle.com/datasets/obulisainaren/multi-cancer
-8 Types of Cancer Images
+Link: https://www.kaggle.com/datasets/obulisainaren/multi-cancer
+8 Types of Cancer Images.
+
 Overview
 This dataset contains images of various cancer types, compiled for research and analysis purposes. It includes 8 main cancer classes and 26 subclasses, providing a rich resource for medical image classification and machine learning applications.
 
